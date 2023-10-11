@@ -18,8 +18,8 @@ public class LinkListDemo {
         ll.add(3,"june");
         ll.add(4,12);
 
+        ll.add(1,"punchiewa");
         System.out.println(ll);
-        System.out.println(al);
 
         System.out.println(ll.getLast());
 
